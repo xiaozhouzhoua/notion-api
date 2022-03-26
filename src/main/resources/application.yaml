@@ -3,5 +3,5 @@ spring:
     import: optional:secrets.yaml
 notion:
   api-url: https://api.notion.com
-  api-version: 2021-08-16
-  database-id: todo
+  api-version: 2022-02-22
+  database-id: 5fc4ec4b7db44bb7a41278be873eeaee
